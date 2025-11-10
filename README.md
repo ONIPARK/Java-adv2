@@ -12,7 +12,7 @@
 - HTTP とサーバ実装
 
 ## 環境
-- JDK：**23（tested）**　※ 21+ 互換
+- JDK：**21**
 - IDE：IntelliJ IDEA
 
 ## 関連ノート（Notion）
